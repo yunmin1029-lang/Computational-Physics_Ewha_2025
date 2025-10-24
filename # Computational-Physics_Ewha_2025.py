@@ -47,7 +47,6 @@ plt.ylabel('Counts')
 plt.legend()
 plt.grid(alpha=0.3)
 plt.show()
-plt.savefig("homework1.png")
 
 print("----- Optimized Parameters -----")
 print(f"Peak 1: A={a1: .2f}, B={b1: .2f}, C={c1: .2f}")
