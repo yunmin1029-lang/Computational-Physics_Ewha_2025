@@ -1,4 +1,3 @@
-# Computational-Physics_Ewha_2025
 import matplotlib.pyplot as plt
 import numpy as np 
 import os
